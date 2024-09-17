@@ -1,4 +1,4 @@
-**Name:** Your Name
-**Email:** Your Email
+**Name:** Subrata Dey
+**Email:** deysubrata0817@gmail.com
 **Organization:** Your Organization (optional)
-**Bio:** A brief bio about yourself (optional)
+**Bio:** College Student (optional)
